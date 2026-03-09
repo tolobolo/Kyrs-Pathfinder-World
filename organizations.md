@@ -33,7 +33,7 @@ The Dwarven people are not a single nation but a collection of powerful clans th
   ### Ironforge & Coalfire (The Volcanic Core):
     Based in and around Volcan Dhur, these clans are the heart of the world's industry. The Ironforge Clan is the dominant political force, effectively controlling the other clans. Together with the Coalfire Clan, they operate the main forges of the world. Because they control the elemental cooling wards, they hold the Zozzalyra Kingdom in a state of constant diplomatic debt.
 
-  ### Asvhein (The Gatekeepers):
+  ### Asvhein (The Gatekeeporganizationalers):
     Located in the Paso de Lath, the Asvhein Clan controls the "Trade Pass." They do not build or mine as much as others; instead, they tax every shipment of timber, grain, and ore that moves between the center and the northeast. They are the wealthiest clan and act as the world’s primary bankers.
 
   ### Tongforge & Iceforge (The Imperial Clans): 
@@ -64,3 +64,38 @@ While the KIF works the courts, the GIFA works the shadows. Composed of veteran 
     The Goal: The "Iron Domain," a fortress-city where no non-goblinoid may enter without a permit.
 
     Leader: General Rakks, a scarred hobgoblin tactician who famously mailed his broken shackles to the King of the neighboring realm.
+
+
+## The Five Great Dragon Families
+
+For millennia, dragons were the primary providers of the world’s magic and stability, often giving more to the mortal races than they received in return. After the devastation of the Last War, their numbers dwindled until only five distinct bloodlines remained. These survivors are now heavily protected by the Alliance of Hight Thrones (AHT)—an international law that forbids hunting them, though many dragons still use this protection to quietly plan their next move.
+
+### The Aquatic Smolders (Blue)
+
+    Domain: The Open Seas
+
+    The Smolders are the undisputed masters of the tides. While they are known to capsize the occasional merchant vessel, they are generally peaceful toward those who respect their territorial waters. Sailors often carry "Tribute Pouches" of gold; a small bribe to these blue dragons usually guarantees a safe passage through the roughest storms.
+
+### The Domineering Fireclouds (Red)
+
+    Domain: Mount Dhor
+
+    The Fireclouds maintain a legendary bond with the dwarves of Clan Ironforge. These red dragons are not just neighbors; they are industrial partners. Their intense breath is the primary power source for the great Ironforge foundries, allowing the dwarves to craft metal that no other forge can match.
+
+### The Calculating Wyverns (Green)
+
+    Domain: The Forests of Levelon
+
+    Unlike their cousins, the Green Dragons of Levelon are deeply involved in world politics. While it is common to see them soaring over the woodlands, they adhere to a strict code of non-interference. They are known to watch battles unfold without lifting a claw—even if an ally is under attack—valuing political positioning over physical conflict.
+
+### The Archaic Blacks (Black)
+
+    Domain: The Subterranean Deep
+
+    The only family that still practices the forbidden art of Necromancy. The Black Dragons have spent the last few years hiding in the deep caverns, though they maintain a mysterious, "good" relationship with the Ministry of Souls. Their goals remain obscured, but their presence beneath the earth is a constant source of global anxiety.
+
+###  The Invincible Lairs (White)
+
+    Domain: The Upper Sky
+
+    The rarest of the five, these white dragons dwell in the highest reaches of the atmosphere. They are rarely seen alone; lore dictates that if you spot one "Lair" dragon, the rest of the flight is hidden nearby in the clouds. Because of their isolation, they remain the most mysterious and unpredictable of the remaining families.
