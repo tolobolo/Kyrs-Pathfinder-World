@@ -46,11 +46,10 @@ To understand the weight of these organizations, the world's military power is c
 
 ## Tri-Kin Hermony
 
- In the wake of the Tri-Kin Wars, the goblins achieved a masterpiece of societal engineering. They initiated a massive wave of industrialization, pioneering new technologies that changed the world. By harvesting the finest materials from across the globe, they fueled massive factories built at the heart of their territory. Their cities were designed to be rigid and unbreakable, protected by formidable war-fortresses stationed along every mountain path leading to the center of the map. This era saw the invention of advanced weaponry, including revolutionary ballistas and devastating magic rays.
- The Decadent Transition
+In the wake of the Tri-Kin Wars, the goblins achieved a masterpiece of societal engineering. They initiated a massive wave of industrialization, pioneering new technologies that changed the world. By harvesting the finest materials from across the globe, they fueled massive factories built at the heart of their territory. Their cities were designed to be rigid and unbreakable, protected by formidable war-fortresses stationed along every mountain path leading to the center of the map. This era saw the invention of advanced weaponry, including revolutionary ballistas and devastating magic rays.
+
 
 Following the death of Archmage Sylvaris, the Empire managed to endure for five years before it was restructured into a Goblin Democracy. This new government lasted for another five years before the Empire began to lose its grip on its distant territories. The central flaw was the Empire’s massive scale; it was simply too large to be governed by a democracy. Because vital decisions took months to travel from one place to another, the infrastructure of the state became impossible to control.
-The Great Anarchy and the Modern Era
 
 The eventual collapse of the Tri-Kin Empire spiraled into a state of total anarchy. Three major factions, all heavily armed and prepared for total war, vied for control:
 
@@ -62,10 +61,17 @@ The eventual collapse of the Tri-Kin Empire spiraled into a state of total anarc
 
 The conflict began as a desperate race to seize the Empire's massive fortresses. In the end, the Dwarven-Elven Alliance managed to squeeze out the two goblin groups, establishing the geopolitical world as it is known today. Even though the original empire has fallen, the infrastructure they built is so resilient that it remains in use to this day.
 
-## Dwarven Kingdom
+## The great Dwarven Kingdom
 
+After the dwarves were pushed away from the central island, they began a massive expansion into the surrounding mountain ranges. Their new capital, Mountain Dhör, became the heart of a kingdom built upon vast cave systems stretching for miles and impenetrable fortresses designed to halt any invasion.
 
-## Elven Empire
+The turning point in their history came when King Arakour Cragarmour took the throne from his father. Shifting the nation's focus toward advanced technology, Arakour pioneered the creation of flying ships. This sparked the era known as the Dwarven War, or the birth of the Sky Empire.
+
+Following their victory, the Empire established a network of flying ship routes that remain in active use to this day. They utilized the mountains themselves to anchor their empire; every single mountain was outfitted with a forge. If a mountain appears empty today, it is only because the forge has been buried deep beneath the rock.
+
+The Sky Empire’s momentum finally came to a halt when the Elves developed their own technology to control flying machines. This breakthrough neutralized the Dwarven advantage, effectively stopping the war and bringing the Empire's era of dominance to an end.
+
+## The great Elven Dynasty 
  Born into the fires of the First Dragon-Troll War, the Elves were granted a divine mandate by the Dragons: seize the central territories and end the bloodshed. Combining their innate Arcana with the sheer backing of Dragon Strength, the Elven legions crushed the Troll advance and stabilized the world. In the aftermath, they used a fusion of Arcana and the last remnants of Primal magic to regrow the lands the Trolls had scorched. Their civilization was a marvel of vertical engineering—massive cities suspended high within the boughs of ancient trees, with reinforced hammocks and arcane platforms spanning the forest canopy.
 
 The arrival of the Dwarves initially brought hope, but this peace was short-lived. As the Dwarven forges began to consume the great forests for fuel, the Elves struck back with sudden, leafy violence. Though the Elves forced the Dwarves to flee to the South-West, the victory left them exhausted. Seizing this moment of weakness, the Trolls launched a vengeful counter-attack. The Elves were forced into a bitter retreat, only regaining their territory much later during the chaos of the Dragon Civil War.
