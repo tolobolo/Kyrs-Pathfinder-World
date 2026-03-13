@@ -92,7 +92,7 @@ During this golden age, the dragons relied on a massive slave caste of Kobolds. 
 
     The Final Collapse: A brutal Draconic Civil War drained their remaining resources. When they finally emerged for the Tri-Kin Collapse, they were decisively defeated by the Goblins' superior tactical planning, forcing the survivors into the shadows. now there is only five dragon families left in the world (Read more on that in organizations).
     
-## The grat Troll Coalison 
+## The great Troll Coalison 
 
 The Great Troll Empire began not as a unified nation, but as a chaotic collection of warring clans. Inspired by the majesty of their Draconic neighbors, the Trolls eventually focused their aggression toward a common goal: industrial expansion. Lacking the innate magic of the dragons, they built their civilization on the back of massive, wood-fueled furnaces. In the freezing northern climates, Troll cities grew around these "Great Factories," which churned out massive ballistas and siege engines designed to challenge the gods of the sky.
 
