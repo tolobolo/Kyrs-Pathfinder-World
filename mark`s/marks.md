@@ -1,28 +1,24 @@
 # Blest
 
 ### Elementals
-wood ->
-Iron -> Iron Blessed
-fire -> 
-water ->
-stone -> 
-air ->
+wood -> Fiber Rune ?
+Iron -> Iron Rune 
+fire -> Fire rune 
+water -> Water Rune
+stone -> Stone Rune
+air -> Wind Rune ?
 
 ### pos- neg
-void
-vitality
+void -> Mark of void
+vitality -> Mark of vitality
 
 ### Techoligi
-beast
-making
+beast -> Mark of Beast
+making -> Mark of Assembling ?
 
 ### dark-ligh
-Darkness 
-Light
-
-
-### that is gone
- of summoning
+Darkness -> Seal of darkness ?
+Light -> Seal of Light ?
 
 ## setup
 The Marked (Versatile Heritage)
