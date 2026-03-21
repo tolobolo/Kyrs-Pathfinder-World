@@ -30,4 +30,22 @@ The Goblins, Hobgoblins, and Bugbears eventually united to form the Tri-Kin Hege
 
 ## VIII. The Modern Revolution
 
-The Hegemony lasted for twenty years before transitioning into a democracy, but it truly collapsed five years later when Sylvaris the Bound committed suicide to ascend to godhood. His death neutralized the magic protecting the flying ships, causing the fleet to fall. A new coalition, the Southern Alliance, rose to fill the void, utilizing Dwarven firearms and Elven magic to destabilize the old regime. The Dragons joined the final fight, leading to the Treaty of the Five Families to ensure world balance. In this period, Humans arrived; being highly adaptable and capable of mining where Elves could not, they quickly expanded across all environments, leading to the formation of the modern kingdoms seen today.
+The Hegemony lasted for twenty years before transitioning into a democracy, but it truly collapsed five years later when Sylvaris the Bound committed suicide to ascend to godhood. His death neutralized the magic protecting the flying ships, causing the fleet to fall. A new coalition, the Southern Alliance (SA), rose to challenge the old regime using Dwarven firearms and Elven magic, but they lacked the strength to fully fill the power vacuum.
+
+The Dragons joined the final fight, but they were barely strong enough to survive, let alone lead. This led to the Treaty of the Five Families to ensure a fragile world balance. In this era of instability, Humans arrived; being highly adaptable and capable of mining where Elves could not, they expanded rapidly across all environments. Meanwhile, Kuzun-Rai, a former hobgoblin who changed sides, established the Xeolia Empire in the North.
+
+## IX. The Age of Terror
+
+In an unexpected move, Trolls aided by Orc clans began engaging in guerrilla warfare. They used masks fueled by magic to create specialized armies, and with help from former generals of the Tri-Kin Hegemony, they plunged the world into anarchy. While the Southern Alliance (SA) and the Xeolia Empire tried to fight back, the SA fell quickly, and Xeolia became blockaded. During this chaotic "systematized anarchy," powerful bounty hunters and necromancers rose up to carve out their own small empires.
+
+## X. Age of the North
+
+The Orcs attempted to control the world through an empire of their own, but because the Trolls remained independent and uncooperative, the plan failed. Elsewhere, Izar the Conqueror took control of a small territory. Through dark power and strategy, he seized the North and founded the Khennuirian Empire. Izar formed an alliance with the Xeolia Empire and the remnants of the SA to make progress in reclaiming the world. However, they struggled to advance; the masked armies were too fast and could switch tactics so quickly that the empires never found a permanent solution to defeat them.
+
+## XI. Age of Empires and Demons
+
+Portals appeared across every continent, filling the world with fire and dark magic as demons, fiends, devils, and lords poured through. Within the Xeolia and Khennuirian empires, Izar used his necromancy to turn a Demon Lord into an undead thrall through a ritual that shook the world. This undead lord crushed most of the portals within the kingdoms.
+
+## The Modern Peace
+
+The Troll-Orc alliance struggled more significantly; as the empires and demons clashed, the alliance was shattered. Today, if you see a Troll, they are likely one of the last of their kind. The Orcs fell to the SA and were eventually forgiven. The demons were ultimately defeated by their own undead variants, ending the "Last War" and bringing peace. New empires like Levalon and Zozzalyra emerged, and to prevent future conflicts, the Alliance of High Thrones (AHT) was formed. The Khennuirian Empire later merged with Levalon to create a power capable of standing against the Xeolian Empire.
