@@ -22,7 +22,7 @@ you gain a unarmed fist attack ? or exstra health ?
 every morning you can chosse between positiv and negativ healing
 
 ## Mark of vitality
-you get a ones per day on touch you heal 1d6 +1 that increases at 3 level ? or  you get Vitality lash cantrip
+you get a ones per day on touch you heal 1d6 that increases at 3 level and a +1 to disease ? or  you get Vitality lash cantrip
 
 ## Mark of Beast
 you get a primal spell of your chosse or unamed bit 1d8 or fist attack 1d8 grapple, shove ?
