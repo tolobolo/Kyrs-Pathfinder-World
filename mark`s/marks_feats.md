@@ -10,16 +10,18 @@ you gain the ignition cantrip or  1 action You light your weapon or unarmed atta
 ## Water Rune
 you gain unholy water cantrip so 20 feet 1d6 + 1 splash ? or Let you breath under water ?
 
+5. you get 20 feet swimming speed or you get the Aqueous blast 1 level spell ones per day
+
 ## Wind Rune 
 you gain +5 feet speed or Electric arc cantrip
 
 ## Stone Rune
-you gain a unarmed fist attack ? or exstra health ?
+you make difficult terrain 10 feet around you ones per day or exstra health ?
 
 1. You add the following spells to your spell list and can select them as any other spell on your spell list, if you have one.
 
 ## Mark of void
-every morning you can chosse between positiv and negativ healing and the void warp cantrip or 
+every morning you can chosse between positiv and negativ healing and you get the void warp cantrip or 
 
 ## Mark of vitality
 you get a ones per day on touch you heal 1d6 that increases at 3 level and a +1 to disease ? or  you get Vitality lash cantrip
@@ -30,12 +32,16 @@ you get a primal spell of your chosse or unamed bit 1d8 or fist attack 1d6 grapp
 ## Mark of Assembling
 you get trained in crafting and specialty crafting ? or  
 
+1. you get a familliar ? or 
+
 5. get the cantrip mending or 
 
 ## Seal of darkness
 You gain low-light vision, or darkvision if your ancestry already has low-light vision or 
 
-## Seal of Light
-you get the Light cantrip ? or
+9. you get the Darkness spell ones per day or
 
-5. you get divine magic ?
+## Seal of Light
+you get the Illuminate cantrip ? or you get daze cantrip ?
+
+5. you get divine magic ? or
