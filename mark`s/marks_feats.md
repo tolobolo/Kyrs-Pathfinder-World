@@ -19,18 +19,18 @@ you gain a unarmed fist attack ? or exstra health ?
 1. You add the following spells to your spell list and can select them as any other spell on your spell list, if you have one.
 
 ## Mark of void
-every morning you can chosse between positiv and negativ healing
+every morning you can chosse between positiv and negativ healing and the void warp cantrip or 
 
 ## Mark of vitality
 you get a ones per day on touch you heal 1d6 that increases at 3 level and a +1 to disease ? or  you get Vitality lash cantrip
 
 ## Mark of Beast
-you get a primal spell of your chosse or unamed bit 1d8 or fist attack 1d8 grapple, shove ?
+you get a primal spell of your chosse or unamed bit 1d8 or fist attack 1d6 grapple, shove ?
 
 ## Mark of Assembling
 you get trained in crafting and specialty crafting ? or  
 
-5. get the cantrip mending
+5. get the cantrip mending or 
 
 ## Seal of darkness
 You gain low-light vision, or darkvision if your ancestry already has low-light vision or 
