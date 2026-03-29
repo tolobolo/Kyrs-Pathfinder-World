@@ -4,6 +4,9 @@
 ## Technology to day
 Aethgard is a land powered by advanced technology, but its primary resources are magical. Because most systems rely on magic to function, a deep split has formed in society. Magic users are typically seen as more valuable and occupy higher social classes than those without arcane abilities. The only commoners who manage to reach these high social circles are typically wealthy individuals or those who have achieved great personal feats.
 
+## Internett
+In this world, the conventional internet is replaced by the Aether-Net, a global magical weave that functions as a high-speed information lattice. This arcane infrastructure powers everything from immersive cinemas to social platforms similar to Facebook, allowing for the widespread broadcast of films and digital communication. Within the military, this technology is utilized for Live-Scrying, providing generals with real-time tactical camera feeds directly from the helms of their soldiers on the front lines.
+
 ### Vehicles 
 in Aethgard are powered by either magic or gas, though gas is rarely used because magic is far more efficient and gas mining is limited to specific regions. Magic-run cars require a spellcaster to operate, making them a luxury of the upper class. In recent years, these vehicles have seen heavy military use because they are more robust than horses; newer models have even been outfitted with mounted weaponry. While both Xeolia and Levelon produce these machines, Levelon refuses to manufacture gas cars because the emissions and extraction methods actively harm the surrounding nature.
 
