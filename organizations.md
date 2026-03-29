@@ -3,9 +3,12 @@
 
 The Assembly of High Thrones was established in the wake of the devastating global wars that followed the collapse of the Tri-Kin Hegemony. It functions as the world's primary diplomatic body, similar to a global parliament or United Nations, with the goal of maintaining absolute stability. Every kingdom on the continent is a member, as the organization’s primary objective is to remove any threat that could break the world’s balance without favoring one member over another.
 
-The AHT operates under a comprehensive rulebook that mirrors modern international law, governing everything from trade rights in the Paso de Lath to the regulation of necromancy under the Grave-Hallow Accord. Headquartered in the Levalon Dynasty, the Assembly serves as the neutral ground where emperors and democratically elected leaders must meet to resolve disputes. While the AHT does not have a massive standing army of its own, its influence is absolute; any nation that violates the rulebook faces total economic isolation and the combined pressure of every other member-state.
-
 In recent years, the AHT has established several official organs to oversee its interests, most notably the Sovereign Purveyors (PS). While the PS serves as a direct administrative arm of the government, the AHT has also strategically empowered the Dwarven clan Asvhein as an independent party. By granting the clans special authority and resources, the AHT has enabled them to compete directly against the Levelion Dynasty, successfully breaking their monopoly over trade routes. This move highlights how the AHT uses a combination of its own departments and external alliances to maintain a balance of power and ensure peace through economic competition.
+
+# The Iron Exorcists (IE)
+Commissioned by the Khennurian Empire, the gnome inventor Zelmet Iron-Whisper created twenty specialized automaton battalions to purge the last demons of the Age of Terror. These mechanical Thaumaturges, often equipped with arcane lanterns, were elite hunters designed to incinerate abyssal essence across the post-war landscape. However, once the demonic threat faded, their purpose became redundant, leading to a fractured legacy for the remaining units.
+
+The mysterious Izar quickly seized ten of these groups for unknown ends, while the rest were left to find their own path. Today, many of these veteran automatons work as bounty hunters under PS, though the majority have found a new sense of duty by forming a specialized "organ" under AHT. Whether integrated into civilian life or serving as enforcers, they remain the iron-clad remnants of a forgotten crusade.
 
 ## The Southern Alliance
 

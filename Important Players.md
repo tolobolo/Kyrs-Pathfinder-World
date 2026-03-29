@@ -6,6 +6,11 @@ Born into the high nobility of the Tri-Kin Hegemony, Izar was a lizarfolk strate
 
 When he finally emerged, the world he knew was gone. He found a small, chaotic war brewing in the Northeast. Hiding his undead nature and his growing necromantic power from the public, he rose to lead the local armies to a total victory. He often won battles without losing a single living soldier, secretly deploying legions of zombies under the cover of night. Though he initially sought total conquest, he eventually married a vampire and had children through powerful blood-magic, leading him to focus on stability over war. This shift birthed the Khennuirian Empire. To prevent his kingdom from collapsing after his final death—caused by a divine death ray from a high priest—he decreed in his will that the empire become a democracy, stripping his own royal family of power.
 
+## Zelmet Iron-Whisper
+Hailing from the Zozzalyra Empire, the gnome inventor Zelmet Iron-Whisper began his career fascinated by the ancient history of bound elementals. After studying as a professional inventor, he spent years working in an airship factory before branching out to pitch his own private Warforged company. Though his homeland of Zozzalyra ultimately rejected his ambitious proposal, the Khennurian Empire stepped in with a massive funding offer, provided he relocate and build a mechanical army to eradicate the world's remaining demons.
+
+Zelmet accepted the deal and successfully engineered the twenty legendary automaton battalions that ended the Age of Terror. Following the war, he transitioned into the automotive industry, though his car designs have yet to see a major commercial breakthrough. Today, he remains in the Khennurian Empire, where he oversees his private company and lives a quiet, successful life with his family.
+
 ## Scrub "Click"
 
 A Ratfolk born into slavery years after the rise of the great empires, Scrub’s life changed on his third birthday when he escaped captivity by killing the scientist holding him hostage. While he escaped with his siblings, his parents were not as fortunate. While his brother entered the world of politics, Scrub entered the world of blood, joining the Sovereign Purveyors (PS) as a bounty hunter.
